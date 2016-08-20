@@ -68,6 +68,19 @@ body {
     padding: 0 $rs * 1;
   }
 
+  .logo {
+    margin-right: 10px;
+    text-decoration: none;
+  }
+
+  .title-and-desc-wrapper {
+    display: inline-block;
+  }
+
+  .blog-header, .blog-title {
+    display: inline;
+  }
+
   .page-links {
       display: block;
       position: absolute;
