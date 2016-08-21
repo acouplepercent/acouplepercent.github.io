@@ -1,6 +1,7 @@
 ---
 layout: post
 title: First post
+published: false
 ---
 
 Lorem gibson...
