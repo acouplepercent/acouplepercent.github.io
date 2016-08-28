@@ -48,7 +48,7 @@ Because of this poor balance of investors, there's a "herding" effect where smal
 LDCs frequently do the "wrong thing" due to optimism, which is hard to suppress. Imagine you are setting financial policy for an LDC. You want to issue debt, and you have two options:
 
 1. Issue debt in local currency. This will cost you more during good times, as you'll have to pay a higher rate of interest for borrowers to accept the risk of inflation. But during bad times or currency shocks this will have a stabilizing effect, as the debt becomes smaller (in real terms) as the currency inflates.
-2. Issue debt in USD (or instruments linked to USD). This will cost you less upfront, as it's indexed to a stable currency. But during bad times (as the currency devalues) the debt payments will increase commeasurately, putting more pressure on the country and sending it into a tailspin.
+2. Issue debt in USD (or instruments linked to USD). This will cost you less upfront, as it's indexed to a stable currency. But during bad times (as the currency devalues) the debt payments will increase commensurately, putting more pressure on the country and sending it into a tailspin.
 
 And yet, borrowers continue to choose option (1) because it costs less at the current time, and the projections for the future are always rosy.
 
@@ -62,9 +62,9 @@ Old wisdom: "The best indicator of whether a country will default in the future 
 
 (Personal note: this works equally well when lending money to friends)
 
-Hedging against default risk here is difficult due to what Pettis calls the "gapping" effect of a soverign crisis: 
+Hedging against default risk here is difficult due to what Pettis calls the "gapping" effect of a sovereign crisis: 
 
-> ...by which I mean the discontinuous nature of a soverign default--when all external debt simultaneously becomes unpayable. Because gapping risk is extermely difficult to hedge and can create tremendous inefficiencies for the borrower, investors are forced into procyclical behavior whenever there's a crisis. (164)
+> ...by which I mean the discontinuous nature of a sovereign default--when all external debt simultaneously becomes unpayable. Because gapping risk is extremely difficult to hedge and can create tremendous inefficiencies for the borrower, investors are forced into procyclical behavior whenever there's a crisis. (164)
 
 Any investment to dampen the cycle is helpful, but not always seen that way:
 
